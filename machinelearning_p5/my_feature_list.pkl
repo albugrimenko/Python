@@ -1,0 +1,12 @@
+(lp0
+S'poi'
+p1
+aS'bonus'
+p2
+aS'total_payments'
+p3
+aS'exercised_stock_options'
+p4
+aS'total_compensation'
+p5
+a.
